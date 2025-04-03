@@ -1,5 +1,5 @@
 # AI-Based-Resume-Screening
-An AI-powered system that automates resume screening by analizing resumes, extracting key information, and ranking candidates based on job requirements.
+An AI-powered system that automates resume screening by analizing resumes, extracting key information and ranking candidates based on job requirements.
 
 # Key Features
 1. Resume Parsing - Extracts key details (name, contact, education, experience, skills).
