@@ -9,3 +9,5 @@ An AI-powered system that automates resume screening by analizing resumes, extra
 5. Bias Reduction - Ensures fair evaluation using explainable AI (XAI).
 6. Multilingual Support - Supports resumes in multiple languages.
    
+#Datasets
+1. Kaggle Resume Dataset
