@@ -11,3 +11,5 @@ An AI-powered system that automates resume screening by analizing resumes, extra
    
 # Datasets
 1. Kaggle Resume Dataset
+2. Resume Parsing Datasets
+3. Custom Dataset
